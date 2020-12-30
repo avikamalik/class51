@@ -1,0 +1,30 @@
+h1 {
+    color:#6d6875;
+}
+
+.hello{
+    background-color:#e5989b86;
+    display:flex;
+    justify-content:space-between;
+}
+
+.avika{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+.abc{
+    background-color:#f4f1de;
+    display:flex;
+    justify-content:flex-end
+}
+
+.asma{
+    text-align:center;
+    color:#10002b;
+    font-size:3ch;
+     font-style:italic;
+     font-family:'Courier New', Courier, monospace;
+   
+}
